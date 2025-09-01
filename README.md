@@ -1,4 +1,4 @@
-w## Hi there 👋
+## Hi there 👋
 
 My name is Godfrey, and I'm a student developer studying Computer Science + Cognitive Science interested in all things Data Analyzation and Security.
 
