@@ -3,7 +3,7 @@
 My name is Godfrey, and I'm a student developer studying Computer Science + Cognitive Science interested in all things Data Analyzation and Security.
 
 - 🔭 I’m currently working on my upcoming new and revised Portfolio Wesbite... 
-- 🌱 I’m currently learning 🇪🇸
+- 🌱 I’m currently learning 🇪🇸 ♨️ 
 - 👯 I’m looking to collaborate on software development projects!
   - Hit me up on poncegodfrey@gmail.com  
 <!--
