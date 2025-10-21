@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Godfrey, and I'm a student developer studying Computer Science + Cognitive Science interested in all things Data Analyzation and Security.
+My name is Godfrey, and I'm a student developer studying Computer Science + Cognitive Science interested in finding patterns in everything... including the way ALL my socks have disappeared in the laundry.
 
 - 🔭 I’m currently working on my upcoming new and revised Portfolio Wesbite... 
 - 🌱 I’m currently learning 🇪🇸 ♨️ 
