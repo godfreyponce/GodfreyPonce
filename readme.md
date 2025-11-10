@@ -1,10 +1,12 @@
-## Hi there 👋
+# Helloo my name is Godfrey Ponce
+## Computer Science / Cognitive Science
 
-My name is Godfrey, and I'm a student developer studying Computer Science + Cognitive Science interested in finding patterns in everything... including the way ALL my socks have disappeared in the laundry.
+I'm a student developer interested in finding patterns in everything... including the way ALL my socks have disappeared in the laundry.
 
-- 🔭 I’m currently working on my upcoming new and revised Portfolio Wesbite... 
-- 🌱 I’m currently learning 🇪🇸 ♨️ 
-- 👯 I’m looking to collaborate on software development projects!
+- 🌎 Based in Dallas, Texas
+- 🔭 I’m currently working on my upcoming new and revised Portfolio Wesbite 
+- 🌱 I’m currently learning ♨️ and n8n workflow 
+- 👯 I’m looking to collaborate on software development projects
   - Hit me up on poncegodfrey@gmail.com  
 <!--
 **godfreyponce/GodfreyPonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
