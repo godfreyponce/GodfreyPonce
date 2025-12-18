@@ -4,7 +4,7 @@
 I'm a student developer interested in finding patterns in everything... including the way ALL my socks have disappeared in the laundry.
 
 - 🌎 Based in Dallas, Texas
-- 🔭 I’m currently working on my upcoming new and revised Portfolio Wesbite 
+- 🔭 I’m currently working on n8n and revamping my website!
 - 🌱 I’m currently learning ♨️ and n8n workflow 
 - 👯 I’m looking to collaborate on software development projects
   - Hit me up on poncegodfrey@gmail.com  
