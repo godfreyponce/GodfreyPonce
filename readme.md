@@ -1,7 +1,7 @@
 # Helloo my name is Godfrey Ponce
 ## Computer Science / Cognitive Science
 
-I like putting numbers into a number generator then deciding if i like its output of numbers back
+I like putting numbers into a number generator then deciding if i like its output of numbers
 
 - 🌎 Based in Dallas, Texas
 - 🔭 I’m currently working on my second brain
