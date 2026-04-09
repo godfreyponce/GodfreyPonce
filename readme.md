@@ -1,13 +1,12 @@
 # Helloo my name is Godfrey Ponce
 ## Computer Science / Cognitive Science
 
-I'm a student developer interested in finding patterns in everything.
+I like putting numbers into a number generator then deciding if i like its output of numbers back
 
 - 🌎 Based in Dallas, Texas
-- 🔭 I’m currently working on n8n and agent architecture.
-- 🌱 I’m currently learning ♨️ and n8n workflow 
-- 👯 I’m looking to collaborate on software development projects
-  - Hit me up on poncegodfrey@gmail.com  
+- 🔭 I’m currently working on my second brain
+- 🌱 I’m currently learning ♨️ and the math behind ML
+- 👯 Down for any projects that help people, poncegodfrey@gmail.com  
 <!--
 **godfreyponce/GodfreyPonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
