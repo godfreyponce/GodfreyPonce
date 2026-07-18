@@ -1,23 +1,5 @@
-# Helloo my name is Godfrey Ponce
-## Computer Science / Cognitive Science
-
-I like putting numbers into a number generator then deciding if i like its output of numbers
-
-- 🌎 Based in Dallas, Texas
-- 🔭 I’m currently working on my project(s)
-- 🌱 I’m currently learning cloud architecture
-- 👯 Down for any projects that help people, poncegodfrey@gmail.com  
-<!--
-**godfreyponce/GodfreyPonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... [Website name](https://websiteurl.com)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Godfrey Ponce braille portrait with profile info" src="dark_mode.svg">
+</picture>
