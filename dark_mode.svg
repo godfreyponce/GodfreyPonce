@@ -54,7 +54,7 @@
 <tspan x="24" dy="16" class="i">⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠌⢻⣷⡄⠀⠈⣿⣟⡠⡄⠀⢀⢸⣿⣿⣿⣿⡀⠀⢀⢀⣀⢀⠀⣼⣴⡄⠀⢀⢀⠀⠀⠀⠀⠀⠀⢀⣀⣾⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣏⠀⠀⠀⢀⠀⠀⣸⣾⡟⠀⠀⡀⠀⢠⠿⠋⠀⢀⣠⣴⢊⡥⠅⠀⠀⠀⣿⡄⠀⠀</tspan>
 <tspan x="24" dy="16" class="i">⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
 </text>
-<text xml:space="preserve" x="1139.84" y="288.0" font-size="26">
+<text xml:space="preserve" x="1139.84" y="271.0" font-size="26">
 <tspan x="1139.84" dy="0" class="i">godfreyponce@github</tspan>
 <tspan x="1139.84" dy="34" class="i">-------------------</tspan>
 <tspan x="1139.84" dy="34"><tspan class="k">OS:</tspan><tspan class="v"> macOS (Darwin)</tspan></tspan>
@@ -64,6 +64,7 @@
 <tspan x="1139.84" dy="34"><tspan class="k">Stack:</tspan><tspan class="v"> Python TypeScript Java C++</tspan></tspan>
 <tspan x="1139.84" dy="34"><tspan class="k">Projects:</tspan><tspan class="v"> building things that</tspan></tspan>
 <tspan x="1139.84" dy="34" class="v">  automate my lifestyle</tspan>
-<tspan x="1139.84" dy="34"><tspan class="k">Interests:</tspan><tspan class="v"> soccer AI agents</tspan></tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">Interests:</tspan><tspan class="v"> soccer, 3d printing,</tspan></tspan>
+<tspan x="1139.84" dy="34" class="v">  agents</tspan>
 </text>
 </svg>
