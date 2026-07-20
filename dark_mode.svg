@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1668 864" width="1668" height="864">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 864" width="1684" height="864">
 <style>text{font-family:Consolas, Menlo, monospace;white-space:pre}.i{fill:#c9d1d9} .k{fill:#ffa657;font-weight:600} .v{fill:#a5d6ff}</style>
-<rect width="1668.2399999999998" height="864" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect width="1684.0025" height="864" rx="8" fill="#161b22" stroke="#30363d"/>
 <text xml:space="preserve" x="24" y="40" font-size="16">
 <tspan x="24" dy="0" class="i">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
 <tspan x="24" dy="16" class="i">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣴⣶⣶⣶⣶⣦⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
@@ -54,14 +54,16 @@
 <tspan x="24" dy="16" class="i">⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠌⢻⣷⡄⠀⠈⣿⣟⡠⡄⠀⢀⢸⣿⣿⣿⣿⡀⠀⢀⢀⣀⢀⠀⣼⣴⡄⠀⢀⢀⠀⠀⠀⠀⠀⠀⢀⣀⣾⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣏⠀⠀⠀⢀⠀⠀⣸⣾⡟⠀⠀⡀⠀⢠⠿⠋⠀⢀⣠⣴⢊⡥⠅⠀⠀⠀⣿⡄⠀⠀</tspan>
 <tspan x="24" dy="16" class="i">⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
 </text>
-<text xml:space="preserve" x="1139.84" y="360.0" font-size="16">
+<text xml:space="preserve" x="1139.84" y="288.0" font-size="26">
 <tspan x="1139.84" dy="0" class="i">godfreyponce@github</tspan>
-<tspan x="1139.84" dy="22" class="i">-------------------</tspan>
-<tspan x="1139.84" dy="22"><tspan class="k">OS:</tspan><tspan class="v"> macOS (Darwin)</tspan></tspan>
-<tspan x="1139.84" dy="22"><tspan class="k">College:</tspan><tspan class="v"> UT Dallas BS Computer Science '27</tspan></tspan>
-<tspan x="1139.84" dy="22"><tspan class="k">Minor:</tspan><tspan class="v"> Cognitive Science</tspan></tspan>
-<tspan x="1139.84" dy="22"><tspan class="k">Stack:</tspan><tspan class="v"> Python TypeScript Java C++</tspan></tspan>
-<tspan x="1139.84" dy="22"><tspan class="k">Projects:</tspan><tspan class="v"> building things that automate my lifestyle</tspan></tspan>
-<tspan x="1139.84" dy="22"><tspan class="k">Interests:</tspan><tspan class="v"> soccer AI agents</tspan></tspan>
+<tspan x="1139.84" dy="34" class="i">-------------------</tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">OS:</tspan><tspan class="v"> macOS (Darwin)</tspan></tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">College:</tspan><tspan class="v"> UT Dallas BS Computer</tspan></tspan>
+<tspan x="1139.84" dy="34" class="v">  Science '27</tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">Minor:</tspan><tspan class="v"> Cognitive Science</tspan></tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">Stack:</tspan><tspan class="v"> Python TypeScript Java C++</tspan></tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">Projects:</tspan><tspan class="v"> building things that</tspan></tspan>
+<tspan x="1139.84" dy="34" class="v">  automate my lifestyle</tspan>
+<tspan x="1139.84" dy="34"><tspan class="k">Interests:</tspan><tspan class="v"> soccer AI agents</tspan></tspan>
 </text>
 </svg>
