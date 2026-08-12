@@ -4,9 +4,7 @@
   <img alt="Godfrey Ponce braille portrait with profile info" src="dark_mode.svg">
 </picture>
 
-Junior CS student in Dallas. Most of these started as a problem I had that week.
-
-[Here's my site](https://godfreyponce.dev)
+Junior CS student in Dallas. Most of these started as a problem I had that week. [Here's my site](https://godfreyponce.dev)
 
 ## Current projects
 
