@@ -21,6 +21,6 @@ Junior CS student in Dallas. Most of these started as a problem I had that week.
 
 ### Everything else
 
-- **[clawd](https://github.com/godfreyponce/clawd)**: A crab on my desk that tells me how my running agents are doing
+- **[clawd](https://github.com/godfreyponce/clawd)**: I 3D printed a crab on my desk so I know how my agents are doing
 - **[terrariaCompanion](https://github.com/godfreyponce/terrariaCompanion)**: Played Terraria for the first time this year, idk where to start, so I built this
 - **[LocalPro-Realty](https://github.com/godfreyponce/LocalPro-Realty)**: Internship take home project that I got ghosted on
