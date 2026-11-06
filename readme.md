@@ -4,7 +4,7 @@
   <img alt="Godfrey Ponce braille portrait with profile info" src="dark_mode.svg">
 </picture>
 
-Junior CS student in Dallas. Most of these started as a problem I had that week so I built my solution [virus](https://godfreyponce.dev), and [LinkedIn](https://www.linkedin.com/in/godfreyponce/)
+Junior CS student in Dallas. Most of these started as a problem I had that week so I built my solution. [virus](https://godfreyponce.dev), and [LinkedIn](https://www.linkedin.com/in/godfreyponce/)
 
 ## Things I actually use every day
 
