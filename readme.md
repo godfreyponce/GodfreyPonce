@@ -15,12 +15,7 @@ Junior CS student in Dallas. Most of these started as a problem I had that week.
 
 - **[Jira-Alerts](https://github.com/godfreyponce/Jira-Alerts)**: Jira emails are horrible, so my tickets DMed me on Teams instead
 - **[jiraPlane](https://github.com/godfreyponce/jiraPlane)**: Basically Jira-Alerts with an upgraded visual. A paper airplane flies across my screen when Jira needs me
-
-## Other people's code
-
-- **[WP-Admin-Wordpress](https://github.com/phamleduy04/WP-Admin-Wordpress/pulls?q=is%3Apr+author%3Agodfreyponce+is%3Amerged)**: 3 merged PRs on a browser extension for UT Dallas WordPress sites. It ships to the Chrome and Firefox stores
-- **[next.js#48012](https://github.com/vercel/next.js/issues/48012#issuecomment-5938917640)**: Reran an old Jest mocking bug and narrowed down which version broke it
-- **[t3code#19536](https://github.com/pingdotgg/t3code/issues/19536#issuecomment-6666818150)**: A toolbar bug came back, so I traced it to a reverted fix
+- **[WP-Admin-Wordpress](https://github.com/phamleduy04/WP-Admin-Wordpress/pulls?q=is%3Apr+author%3Agodfreyponce+is%3Amerged)**: Internal tool for my web dev team, a browser extension for UT Dallas WordPress sites. I added features in 3 merged PRs
 
 ## Everything else
 
