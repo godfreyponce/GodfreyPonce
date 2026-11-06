@@ -15,7 +15,7 @@ Junior CS student in Dallas. Most of these started as a problem I had that week 
 
 - **[Jira-Alerts](https://github.com/godfreyponce/Jira-Alerts)**: Jira emails are horrible, so my tickets DMed me on Teams instead
 - **[jiraPlane](https://github.com/godfreyponce/jiraPlane)**: Basically Jira-Alerts with an upgraded visual. A paper airplane flies across my screen when Jira needs me
-- **[WP-Admin-Wordpress](https://github.com/phamleduy04/WP-Admin-Wordpress/pulls?q=is%3Apr+author%3Agodfreyponce+is%3Amerged)**: Internal tool for my web dev team, a browser extension for UT Dallas WordPress sites. I added features in 3 merged PRs
+- **[WP-Admin-Wordpress](https://github.com/phamleduy04/WP-Admin-Wordpress/pulls?q=is%3Apr+author%3Agodfreyponce+is%3Amerged)**: Internal tool for my web dev team, a browser extension for UT Dallas WordPress sites. I fixed bugs and added features in 3 merged PRs
 
 ## Everything else
 
