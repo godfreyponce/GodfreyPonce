@@ -22,7 +22,7 @@ Junior CS student in Dallas. Most of these started as a problem I had that week 
 <img src="assets/icons/jiraplane.png" width="40" align="left" hspace="10" alt="jiraPlane icon" /> **[jiraPlane](https://github.com/godfreyponce/jiraPlane)**<br>A paper airplane flies across my screen when Jira needs me
 <br clear="left">
 
-<img src="assets/icons/wp-admin.png" width="40" align="left" hspace="10" alt="WP-Admin-Wordpress icon" /> **[WP-Admin-Wordpress](https://github.com/phamleduy04/WP-Admin-Wordpress/pulls?q=is%3Apr+author%3Agodfreyponce+is%3Amerged)**<br>Internal tool for my web dev team, a browser extension for UT Dallas WordPress sites. I fixed bugs and added features in 3 merged PRs
+<img src="assets/icons/wp-admin.png" width="40" align="left" hspace="10" alt="WP-Admin-Wordpress icon" /> **[WP-Admin-Wordpress](https://github.com/phamleduy04/WP-Admin-Wordpress/pulls?q=is%3Apr+author%3Agodfreyponce+is%3Amerged)**<br>My web dev team's extension for UT Dallas WordPress sites. I fixed bugs and added features in 3 merged PRs
 <br clear="left">
 
 ## Hackathons
