@@ -30,7 +30,7 @@ Junior CS student in Dallas. Most of these started as a problem I had that week 
 <img src="assets/icons/ithaca.png" width="40" align="left" hspace="10" alt="ITHACA icon" /> **[ITHACA](https://github.com/godfreyponce/hackuta-26)**<br>HackUTA 2026. A webcam fighting game where a friend on FaceTime forges your weapons. I built the call agent
 <br clear="left">
 
-<img src="assets/icons/land.png" width="40" align="left" hspace="10" alt="LAND icon" /> **[LAND](https://github.com/godfreyponce/hackutd-26)**<br>HackUTD 2026. A box that asks out loud if you're okay after an earthquake, and raises an alarm if you don't answer
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/land-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/icons/land-light.png"><img src="assets/icons/land-dark.png" width="40" align="left" hspace="10" alt="LAND icon" /></picture> **[LAND](https://github.com/godfreyponce/hackutd-26)**<br>HackUTD 2026. A box that asks out loud if you're okay after an earthquake, and raises an alarm if you don't answer
 <br clear="left">
 
 <img src="assets/icons/echomap.png" width="40" align="left" hspace="10" alt="EchoMap icon" /> **[EchoMap](https://github.com/godfreyponce/hacksmu-26)**<br>HackSMU project with a teammate. Cleans noise out of elephant recordings
